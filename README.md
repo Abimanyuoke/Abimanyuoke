@@ -11,6 +11,8 @@
 - 🌱 I’m currently learning **Web Development & Web Design**
 
 - 👨‍💻 All of my projects are available at [https://abim-github-io.vercel.app/](https://abim-github-io.vercel.app/)
+  
+- 📖 My Blog are available at [https://my-artikel.vercel.app/](https://my-artikel.vercel.app/)
 
 - 📫 How to reach me **fanani_akbar_32rpl@student.smktelkom-mlg.sch.id**
 
