@@ -1,4 +1,4 @@
-![logo](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
+![logo](https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 <h1 align="center">Hi There👋, I'm Fanani Akbar Abimanyu</h1>
 <h3 align="center">Frontend Development & Designer</h3>
 
