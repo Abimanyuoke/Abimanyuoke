@@ -22,6 +22,7 @@
 <hr/>
 
 <h2 align="center">🔗 Let's Connect 🔗</h2>
+<br/>
 
 <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
