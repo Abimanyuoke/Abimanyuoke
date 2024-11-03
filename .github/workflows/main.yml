@@ -1,0 +1,31 @@
+name: Generate Contribution Snake
+
+on:
+  workflow_dispatch:
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checks out the repository so the job can access it
+      - uses: actions/checkout@v2
+
+      # Generates the contribution snake GIF and SVG
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: Abimanyuoke
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      # Shows the status of the build for debugging
+      - run: git status
+
+      # Pushes the changes to the specified branch
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: output  # change to the desired branch
+          force: true
