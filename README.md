@@ -21,6 +21,9 @@
 <br/>
 <hr/>
 
+<h2 align="center">🔗 Let's Connect 🔗</h2>
+<br/>
+
 <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
     <img src="https://img.shields.io/badge/Facebook-071952?style=for-the-badge&logo=facebook&logoColor=white" />
