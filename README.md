@@ -25,13 +25,13 @@
 <br/>
 
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="fanani_akbar_32rpl@student.smktelkom-mlg.sch.id">
     <img src="https://img.shields.io/badge/Facebook-071952?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/fanani-akbar-abimanyu-978a03298/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-26355D?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://www.instagram.com/fanani_abimanyu/" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-131842?style=for-the-badge&logo=instagram&logoColor=red" target="_blank" />
   </a>
 </div>
