@@ -67,8 +67,10 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 👻</h2>
+  <h2>🐍 My Contributions 🐍</h2>
+  
   <br>
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abimanyuoke/Abimanyuoke/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abimanyuoke/Abimanyuoke/output/pacman-contribution-graph-dark.svg">
