@@ -49,10 +49,16 @@
 
 <hr/>
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
 ##
 ![](https://github-profile-trophy.vercel.app/?username=Abimanyuoke&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+<br/>
+
+<h2 align="center">🔝 Top Contributed Repo</h2>
+
+### 
 ![](https://github-contributor-stats.vercel.app/api?username=Abimanyuoke&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
