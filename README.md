@@ -73,6 +73,18 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+<br/>
+
+🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Abimanyuoke&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Abimanyuoke&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Abimanyuoke&icon=0&color=1)](https://visitcount.itsvg.in)
+
+
 <br/><br/>
 
 <hr/>
