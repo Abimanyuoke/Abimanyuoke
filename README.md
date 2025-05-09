@@ -49,12 +49,11 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 My Contributions 👻</h2>
   <br>
-
-  <!-- Animasi Pac-Man -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abimanyuoke/Abimanyuoke/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abimanyuoke/Abimanyuoke/output/pacman-contribution-graph-dark.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Abimanyuoke/Abimanyuoke/output/pacman-contribution-graph.svg">
 </picture>
 
