@@ -52,7 +52,17 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
 
+  <!-- Animasi Pac-Man -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abimanyuoke/Abimanyuoke/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abimanyuoke/Abimanyuoke/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Abimanyuoke/Abimanyuoke/output/pacman-contribution-graph.svg">
+</picture>
+
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+
   ![snake gif](https://github.com/Abimanyuoke/Abimanyuoke/blob/output/github-contribution-grid-snake-dark.svg)  
+  
   <br/><br/><br/>
 </div>
 
