@@ -60,7 +60,7 @@
 
 ### 
 ![](https://github-contributor-stats.vercel.app/api?username=Abimanyuoke&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<img align="right" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJmYmJwNTVwdmJjdDkyN3IwYjAzb3pvYWhtOWJ5ZXhjYTdreXkxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VRhsYYBw8AE36/giphy.gif" />
+<img align="right" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJmYmJwNTVwdmJjdDkyN3IwYjAzb3pvYWhtOWJ5ZXhjYTdreXkxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VRhsYYBw8AE36/giphy.gif" />
 
 ###
 
