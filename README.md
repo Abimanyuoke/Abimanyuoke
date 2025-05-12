@@ -75,7 +75,7 @@
     <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Abimanyuoke/Abimanyuoke/output/pacman-contribution-graph.svg">
   </picture>
 
-  ![snake gif](https://github.com/Abimanyuoke/Abimanyuoke/blob/output/github-contribution-grid-snake-dark.svg)  
+ 
   
   <br/><br/><br/>
 </div>
