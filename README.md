@@ -69,14 +69,6 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abimanyuoke/Abimanyuoke/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abimanyuoke/Abimanyuoke/output/pacman-contribution-graph-dark.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Abimanyuoke/Abimanyuoke/output/pacman-contribution-graph.svg">
-  </picture>
-
-<br/>
-
   ![snake gif](https://github.com/Abimanyuoke/Abimanyuoke/blob/output/github-contribution-grid-snake-dark.svg)  
 
   
