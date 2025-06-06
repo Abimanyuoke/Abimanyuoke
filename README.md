@@ -69,11 +69,12 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-
-  
-
   
   <br/><br/><br/>
+
+![snake gif](https://github.com/Abimanyuoke/Abimanyuoke/blob/output/github-contribution-grid-snake-dark.svg)
+
+
 </div>
 
 <hr/>
