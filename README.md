@@ -18,6 +18,8 @@
 
 - ⚡ Fun fact **I think I Introvert**
 
+<br/>
+<hr/>
 
 <h2 align="center">🔗 Let's Connect 🔗</h2>
 <br/>
