@@ -47,7 +47,8 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,vite,java,nextjs,mysql,php,postman,prisma,postgres,vercel" /><br>
 </div>
 
-
+<br/>
+<hr/>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
