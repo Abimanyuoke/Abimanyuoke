@@ -73,6 +73,7 @@
   <br/><br/><br/>
 </div>
 
+Kontol
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
