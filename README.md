@@ -67,13 +67,7 @@
 <hr/>
 
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <img src="https://raw.githubusercontent.com/Abimanyuoke/Abimanyuoke/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
-  <br/><br/><br/>
-</div>
 
-<br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
