@@ -1,78 +1,96 @@
-<img src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Fanani Akbar Abimanyu</h1>
-<h3 align="center">Frontend Developer & UI Designer</h3>
+![logo](https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
+<h1 align="center">Hi There👋, I'm Fanani Akbar Abimanyu</h1>
+<h3 align="center">Frontend Development & Designer</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/0*MLqvFzwwZFAuOgup.gif"/>
+<img align ="right" alt="coding" width = "400" src = "https://miro.medium.com/v2/resize:fit:1358/0*MLqvFzwwZFAuOgup.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Abimanyuoke&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abimanyuoke&label=Profile%20views&color=0e75b6&style=flat" alt="abimanyuoke" /> </p>
 
----
+- 🔭 I’m Student on [SMK Telkom Malang](https://www.smktelkom-mlg.sch.id/)
 
-### 👨‍🎓 About Me
-- 🔭 Student at **SMK Telkom Malang**
-- 🌱 Currently learning **Web Development & UI/UX Design**
-- 👨‍💻 Portfolio: [abim-github-io.vercel.app](https://abim-github-io.vercel.app/)
-- 📖 Blog: [my-artikel.vercel.app](https://my-artikel.vercel.app/)
-- 📫 Email: **fanani_akbar_32rpl@student.smktelkom-mlg.sch.id**
-- ⚡ Fun fact: *Introvert but creative*
+- 🌱 I’m currently learning **Web Development & Web Design**
 
----
+- 👨‍💻 All of my projects are available at [https://abim-github-io.vercel.app/](https://abim-github-io.vercel.app/)
+  
+- 📖 My Blog are available at [https://my-artikel.vercel.app/](https://my-artikel.vercel.app/)
 
-## 🔗 Connect With Me
-<p align="center">
+- 📫 How to reach me **fanani_akbar_32rpl@student.smktelkom-mlg.sch.id**
+
+- ⚡ Fun fact **I think I Introvert**
+
+<br/>
+<hr/>
+
+<h2 align="center">🔗 Let's Connect 🔗</h2>
+<br/>
+
+<div align="center"> 
   <a href="https://web.facebook.com/abim.manyu.3914207">
-    <img src="https://img.shields.io/badge/Facebook-071952?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-071952?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/fanani-akbar-abimanyu-978a03298/">
-    <img src="https://img.shields.io/badge/LinkedIn-26355D?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/fanani-akbar-abimanyu-978a03298/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-26355D?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.instagram.com/fanani_abimanyu/">
-    <img src="https://img.shields.io/badge/Instagram-131842?style=for-the-badge&logo=instagram&logoColor=red"/>
+  <a href="https://www.instagram.com/fanani_abimanyu/" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-131842?style=for-the-badge&logo=instagram&logoColor=red" target="_blank" />
   </a>
-</p>
+</div>
 
----
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-## ⚒️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,threejs" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,java,mysql,postgres,prisma,git,github,figma,vscode,postman,vercel" />
-</p>
+<br/>
 
----
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,powershell,vue,threejs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,vite,java,nextjs,mysql,php,postman,prisma,postgres,vercel" /><br>
+</div>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abimanyuoke&theme=radical&margin-w=10" />
-</p>
+<br/>
+<hr/>
 
----
+<h2 align="center">🏆 GitHub Trophies</h2>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img width="390" src="https://github-readme-streak-stats.vercel.app/?user=Abimanyuoke&theme=react&border_radius=10"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Abimanyuoke&show_icons=true&theme=react&border_radius=10"/>
-</p>
+##
+![](https://github-profile-trophy.vercel.app/?username=Abimanyuoke&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abimanyuoke&layout=compact&theme=react&border_radius=10"/>
-</p>
+<br/>
 
----
+<h2 align="center">🔝 Top Contributed Repo</h2>
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abimanyuoke/Abimanyuoke/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+### 
+![](https://github-contributor-stats.vercel.app/api?username=Abimanyuoke&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img align="right" height="270" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJmYmJwNTVwdmJjdDkyN3IwYjAzb3pvYWhtOWJ5ZXhjYTdreXkxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VRhsYYBw8AE36/giphy.gif"/>
 
----
+###
+<hr/>
 
-## ☕ Support Me
-<p align="center">
-  <a href="#">
-    <img height="60" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3"/>
-  </a>
-</p>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img src="https://raw.githubusercontent.com/Abimanyuoke/Abimanyuoke/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+  <br/><br/><br/>
+</div>
+
+<br/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10 alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+<hr/>
+<br/>
+
+<div align="center">
+<a href='#' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
+
