@@ -61,7 +61,7 @@
 
 ---
 
-## 📈 GitHub Activity Graph
+# 📈 GitHub Activity Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Abimanyuoke&theme=react-dark)
 
@@ -69,7 +69,21 @@
 
 # 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=Abimanyuoke&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abimanyuoke&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abimanyuoke&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abimanyuoke&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abimanyuoke&theme=github_dark)
+
+---
+
+# ⭐ Github Metrics
+
+![Metrics](https://metrics.lecoq.io/Abimanyuoke)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
