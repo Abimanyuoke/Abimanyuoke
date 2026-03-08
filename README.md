@@ -32,11 +32,9 @@
 - **So geht noch Besser**
 - **Ich möchte gleich nach Deutschland fliegen**
 - **Meine liebste Farbe: Blau, Lila, Rosa, Schwarz**
-  <div align="right">
 - **Keep Stronger**
 - **Focus totally**
 - **One Direction**
-  </div>
 
 
 <br/>
