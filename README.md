@@ -102,12 +102,6 @@
 
 <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Abimanyuoke&theme=react&border_radius=10"/>
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=Abimanyuoke&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
-
-<br/>
-
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abimanyuoke&layout=compact&theme=react&border_radius=10"/>
-
 </div>
 
 ---
