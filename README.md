@@ -26,16 +26,18 @@
 - 📫 How to reach me  
   **fanani_akbar_32rpl@student.smktelkom-mlg.sch.id**
 
-- ⚡ Fun fact  
-  **Ich liebe meine Eltern*
-  **Ich lerne Deutch*
-  **So geht noch Besser**
-  **Ich möchte gleich nach Deutschland fliegen*
-  **Meine liebste Farbe: Blau, Lila, Rosa, Schwarz*
-  ---------------------------------------------------
-  **Keep Stronger*
-  **Focus totally*
-  **One Direction*
+- ⚡ Fun fact
+- **Ich liebe meine Eltern**
+- **Ich lerne Deutch**
+- **So geht noch Besser**
+- **Ich möchte gleich nach Deutschland fliegen**
+- **Meine liebste Farbe: Blau, Lila, Rosa, Schwarz**
+
+<hr/>
+
+- **Keep Stronger**
+- **Focus totally**
+- **One Direction**
 
 <br/>
 
