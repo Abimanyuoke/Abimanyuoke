@@ -69,19 +69,18 @@
 
 # 🔝 Top Contributed Repo
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abimanyuoke&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abimanyuoke&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abimanyuoke&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abimanyuoke&theme=github_dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abimanyuoke&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abimanyuoke&theme=github_dark" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abimanyuoke&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abimanyuoke&theme=github_dark" width="48%" />
+</p>
 
 ---
 
-# ⭐ Github Metrics
-
-![Metrics](https://metrics.lecoq.io/Abimanyuoke)
+# ⭐ Quotes Daily
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
