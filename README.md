@@ -1,4 +1,3 @@
-
 ![logo](https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 <h1 align="center">Hi There👋, I'm Fanani Akbar Abimanyu</h1>
 <h3 align="center">Frontend Development & Designer</h3>
@@ -62,7 +61,7 @@
 
 ### 
 ![](https://github-contributor-stats.vercel.app/api?username=Abimanyuoke&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<!-- <img align="right" height="270" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJmYmJwNTVwdmJjdDkyN3IwYjAzb3pvYWhtOWJ5ZXhjYTdreXkxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VRhsYYBw8AE36/giphy.gif"/> -->
+<img align="right" height="270" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJmYmJwNTVwdmJjdDkyN3IwYjAzb3pvYWhtOWJ5ZXhjYTdreXkxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VRhsYYBw8AE36/giphy.gif"/>
 
 ###
 <hr/>
