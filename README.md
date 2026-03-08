@@ -61,9 +61,9 @@
 
 ---
 
-# 🏆 GitHub Trophies
+## 📈 GitHub Activity Graph
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abimanyuoke&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Abimanyuoke&theme=react-dark)
 
 ---
 
