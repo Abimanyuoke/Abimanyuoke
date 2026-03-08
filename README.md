@@ -1,5 +1,9 @@
 ![logo](https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285f4,100:34a853&height=220&section=header&text=Abimanyuoke&fontSize=80&animation=typing&fontColor=ffffff" />
+</p>
+
 <h1 align="center">Hi There 👋, I'm Fanani Akbar Abimanyu</h1>
 <h3 align="center">Frontend Developer & Designer</h3>
 
