@@ -27,7 +27,15 @@
   **fanani_akbar_32rpl@student.smktelkom-mlg.sch.id**
 
 - ⚡ Fun fact  
-  **I think I'm an Introvert**
+  **Ich liebe meine Eltern**
+  **Ich lerne Deutch**
+  **So geht noch Besser**
+  **Ich möchte gleich nach Deutschland fliegen**
+  **Meine liebste Farbe: Blau, Lila, Rosa, Schwarz**
+  ---------------------------------------------------
+  **Keep Stronger**
+  **Focus totally**
+  **One Direction**
 
 <br/>
 
