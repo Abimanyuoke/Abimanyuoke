@@ -27,15 +27,15 @@
   **fanani_akbar_32rpl@student.smktelkom-mlg.sch.id**
 
 - ⚡ Fun fact  
-  **Ich liebe meine Eltern**
-  **Ich lerne Deutch**
+  **Ich liebe meine Eltern*
+  **Ich lerne Deutch*
   **So geht noch Besser**
-  **Ich möchte gleich nach Deutschland fliegen**
-  **Meine liebste Farbe: Blau, Lila, Rosa, Schwarz**
+  **Ich möchte gleich nach Deutschland fliegen*
+  **Meine liebste Farbe: Blau, Lila, Rosa, Schwarz*
   ---------------------------------------------------
-  **Keep Stronger**
-  **Focus totally**
-  **One Direction**
+  **Keep Stronger*
+  **Focus totally*
+  **One Direction*
 
 <br/>
 
