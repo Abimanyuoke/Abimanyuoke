@@ -65,7 +65,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,powershell,vue"/>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,powershell,vue,supabase"/>
 
 <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,vite,java,nextjs,mysql,php,postman,prisma,postgres,vercel"/>
 
